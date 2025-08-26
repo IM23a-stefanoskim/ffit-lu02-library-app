@@ -7,6 +7,7 @@ public class LibraryAppMain {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
 
+
         String command = "";
 
         while (!command.equals("quit")) {
